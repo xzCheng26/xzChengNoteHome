@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/javaNote/javaNote.iml" filepath="$PROJECT_DIR$/javaNote/javaNote.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xzChengNoteHome.iml" filepath="$PROJECT_DIR$/xzChengNoteHome.iml" />
+    </modules>
+  </component>
+</project>
