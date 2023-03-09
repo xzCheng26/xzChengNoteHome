@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="248f65e4-4f06-416c-b218-03f6470664d4" name="Default Changelist" comment="创建笔记本">
+    <list default="true" id="248f65e4-4f06-416c-b218-03f6470664d4" name="Default Changelist" comment="实验仓库是否可用">
+      <change afterPath="$PROJECT_DIR$/MyLeetCode/MyLeetCode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyLeetCode/src/leetcode/editor/cn/T1_TwoSum .java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyLeetCode/src/leetcode/editor/cn/doc/content/T1_TwoSum .md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/javaNote/src/oop/Oop_static.md" beforeDir="false" afterPath="$PROJECT_DIR$/javaNote/src/oop/Oop_static.md" afterDir="false" />
     </list>
@@ -17,22 +21,29 @@
     <option name="projectConfigVersion" value="5" />
   </component>
   <component name="ProjectId" id="2MfqKUrtXQfVKZkaDPb8byqGwYE" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="leetcode.id" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
@@ -56,7 +67,16 @@
       <option name="presentableId" value="Default" />
       <updated>1678168922008</updated>
       <workItem from="1678168923182" duration="1590000" />
-      <workItem from="1678174095258" duration="2473000" />
+      <workItem from="1678174095258" duration="5180000" />
+      <workItem from="1678189599583" duration="605000" />
+      <workItem from="1678257875238" duration="314000" />
+      <workItem from="1678267417780" duration="575000" />
+      <workItem from="1678323637950" duration="78000" />
+      <workItem from="1678332277429" duration="151000" />
+      <workItem from="1678332436174" duration="130000" />
+      <workItem from="1678332579624" duration="92000" />
+      <workItem from="1678332748568" duration="1387000" />
+      <workItem from="1678335583978" duration="2141000" />
     </task>
     <task id="LOCAL-00001" summary="创建笔记本">
       <created>1678170401811</created>
@@ -72,7 +92,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678174205452</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="实验仓库是否可用">
+      <created>1678177496367</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1678177496367</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -91,7 +118,9 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="创建笔记本" />
-    <option name="LAST_COMMIT_MESSAGE" value="创建笔记本" />
+    <MESSAGE value="实验仓库是否可用" />
+    <option name="LAST_COMMIT_MESSAGE" value="实验仓库是否可用" />
   </component>
 </project>

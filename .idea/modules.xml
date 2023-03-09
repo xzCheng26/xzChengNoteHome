@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyLeetCode/MyLeetCode.iml" filepath="$PROJECT_DIR$/MyLeetCode/MyLeetCode.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaNote/javaNote.iml" filepath="$PROJECT_DIR$/javaNote/javaNote.iml" />
       <module fileurl="file://$PROJECT_DIR$/xzChengNoteHome.iml" filepath="$PROJECT_DIR$/xzChengNoteHome.iml" />
     </modules>
